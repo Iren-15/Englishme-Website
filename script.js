@@ -26,7 +26,6 @@ const images = [
   "photo-gallery-36.jpg",
   "photo-gallery-2024-11-07-1.jpg",
   "photo-gallery-2024-11-07-2.jpg",
-  "certificate.jpg",
   "photo-gallery-43.jpg",
   "photo-gallery-38.jpg",
   "photo-gallery-39.jpg",
